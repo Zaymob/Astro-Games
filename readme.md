@@ -1,5 +1,4 @@
 <div align=center> 
-<img title="a title" alt="Alt text" src="native.png" height="150" /></div>
 
 # Unblocked games site template
 
