@@ -1,6 +1,6 @@
 // This changes the title of your site
 
-var sitename = "Native Lite (CHANGE ME)"; // Change this to change the name of your website.
+var sitename = Astro Ganes"; // Change this to change the name of your website.
 
 // more settings in main.css
 
